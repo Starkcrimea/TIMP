@@ -1,6 +1,6 @@
 ## Пахалюк Илья Николаевич 241-327
 ### Задание
-
+## DockerHub https://hub.docker.com/repository/docker/ilya351/tcp-game-server/general
 2)В качестве исходного образа взять centos:7
 
 Добавить комментарий с версией проекта (# Version: 2.1.0)
